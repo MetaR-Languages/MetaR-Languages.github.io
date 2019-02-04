@@ -1,0 +1,122 @@
+<h3>Platforms</h3>
+<h3>System requirements</h3>
+<a title="MetaR" href="http://campagnelab.org/software/metar/">MetaR</a> can be installed only if these requirements are met:
+<ul>
+    <li>64bit Windows 10 Pro, Enterprise and Education (1607 Anniversary Update, Build 14393 or later)</li>
+	<li>about 4GB of disk space available.</li>
+</ul>
+
+
+<h3>Install software required by MetaR</h3>
+Users that install MetaR must follow step <img style="width: 70px; height: 45px;" src="/files/bullet-1.png" alt="1" />, <img style="width: 70px; height: 45px;" src="/files/bullet-2.png" alt="2" />, <img style="width: 70px; height: 45px;" src="/files/bullet-3.png" alt="3" />, <img style="width: 70px; height: 45px;" src="/files/bullet-4.png" alt="4" />, <img style="width: 70px; height: 45px;" src="/files/bullet-5.png" alt="5" /> described below.
+
+<b>STEPS FOR ALL USERS</b>
+<table>
+<tbody>
+<tr>
+<td><img class="alignright" style="width: 70px; height: 45px;" src="/files/bullet-1.png" alt="" /></td>
+<td>
+<table>
+<tbody>
+<tr>
+<td>Install Jetbrains MPS 2018.1.1:
+<b>FOR MacOS USERS:</b>
+<ul>
+ 	<li>Download and install Jetbrains MPS 2018.1.1 bundled with Java 8 (205 MB) from <a href="https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg">https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg</a></li>
+</ul>
+<b>FOR WINDOWS USERS:</b>
+<ul>
+ 	<li>Open the Command Prompt (Start button &gt; All Programs &gt; Accessories &gt; Command Prompt) and type:
+<em>java -version</em>
+If the version is less than 1.8.0, download and install the Java 8 Environment from
+<a href="https://java.com/en/download/">https://java.com/en/download/</a></li>
+ 	<li>Download and install Jetbrains MPS 2018.1.1 from <a href="https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1.exe">https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1.exe</a></li>
+</ul>
+<b>FOR LINUX USERS:</b>
+<ul>
+ 	<li>Open the shell's command line and type:
+<em>java -version</em>
+If the version is less than 1.8.0, download and install the Java 8 Environment from
+<a href="https://java.com/en/download/">https://java.com/en/download/</a></li>
+ 	<li>Download and install Jetbrains MPS 2018.1.1 from <a href="https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1.tar.gz">https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1.tar.gz</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><img class="alignright" style="width: 70px; height: 45px;" src="/files/bullet-2.png" alt="" /></td>
+<td> <b>FOR MacOS/LINUX USERS:</b>
+
+Install Docker Community Edition from <a href="https://store.docker.com/search?type=edition&amp;offering=community">https://store.docker.com/search?type=edition&amp;offering=community</a> (you need to register for the download). Depending on your machine's system, follow the simple steps described on the download page to activate Docker on your system. Then, from the Terminal application (or command prompt in Windows), type the following command:
+
+<em>docker pull fac2003/rocker-metar:latest</em>
+
+then press enter/return. This will download a docker image we will use to execute MetaR analyses.
+
+<b>FOR WINDOWS USERS:</b>
+
+Install R (<a href="https://cran.r-project.org/bin/windows/base/">https://cran.r-project.org/bin/windows/base/</a>) and then run this <a href="http://campagnelab.org/files/R-installation.R.txt">R script</a> inside the R console to install some R packages required by MetaR
+
+Define the following Path Variable (menu MPS&gt;Settings...&gt;Appearance &amp; Behavior&gt;Path Variables):
+<ul>
+ 	<li>Name: <b>R_HOME</b>
+Value: <em>installation path to R</em></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img class="alignright" style="width: 70px; height: 45px;" src="/files/bullet-3.png" alt="" /></td>
+<td>Install the MPS metaR plugin:
+<ul>
+ 	<li style="list-style-type: none;">
+<ul>
+ 	<li>start the MPS application and open-up the plugin manager in MPS (menu MPS &gt; Preferences… &gt; Plugins)</li>
+ 	<li>click on the "Browse Repositories..." button. In the new window, click on the "Manage Repositories..." button, then + (plus) and add the following URL: <em>http://mpsrepo.slisson.de/</em>
+<img class=" aligncenter" style="width: 345px; height: 216px;" src="/files/Add_Repo_MPS2018.1.png" alt="ADD MPS repo" /></li>
+ 	<li>back on the "Browse Repositories..." window, scroll the list of available plugins and install the plugin <i>org.campagnelab.MetaR</i></li>
+</ul>
+</li>
+</ul>
+[caption id="attachment_7181" align="aligncenter" width="600"]<a href="http://campagnelab.org/files/MetaR_2.4.2.png"><img class="size-large wp-image-7181" src="http://campagnelab.org/files/MetaR_2.4.2-1024x398.png" alt="" width="600" height="233" /></a> MetaR 2.4.2 available on MPS Plugins Repo[/caption]
+<ul>
+ 	<li>restart the application to activate the plugin</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><img class="alignright" style="width: 70px; height: 45px;" src="/files/bullet-4.png" alt="" /></td>
+<td>Define the following Path Variable (menu MPS&gt;Preferences...&gt;Appearance &amp; Behavior&gt;Path Variables on Mac OS, menu MPS&gt;Settings...&gt;Appearance &amp; Behavior&gt;Path Variables on Windows/Linux)):
+<ul>
+ 	<li>Name: <b>org.campagnelab.metaR.results_dir</b>
+Value: an arbitrary folder <strong>under /Users in Mac OS X </strong>or<strong> C:\Users in Windows</strong> where you want the results of MetaR analyses to be placed. (This directory can be empty the first time you start MetaR.)</li>
+</ul>
+<img class=" aligncenter" style="width: 404px; height: 228px;" src="/files/Add_Variable_3.4.png" alt="Add results_dir var" /></td>
+</tr>
+<tr>
+<td><img class="alignright" style="width: 70px; height: 45px;" src="/files/bullet-5.png" alt="" /></td>
+<td>Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag on the Editor page in the Project settings (menu MPS&gt;Preferences...&gt;Editor on Mac OS, menu MPS&gt;Settings...&gt;Editor on Windows/Linux) as shown: <img class=" aligncenter" style="width: 404px; height: 228px;" src="/files/PreferencesEditor3.4.png" alt="Enable broken references resolution" /></td>
+</tr>
+</tbody>
+</table>
+<h3>Troubleshooting</h3>
+<ul>
+ 	<li>Having problems to download the <em>rocker-metar</em> image at the first execution? Try one of the following <a href="http://campagnelab.org/software/troubleshooting-docker-issues/" target="_blank" rel="noopener">tips</a>.</li>
+</ul>
+<h3>Verify the installation</h3>
+<ol>
+ 	<li>Start the MPS application and open-up the plugin manager in MPS (menu MPS &gt; Preferences… &gt; Plugins). Check that the metaR plugin is listed, is not red and the checkbox next to the plugin name is checked.</li>
+ 	<li>Make sure the required Path Variable is defined: <img class=" aligncenter" style="width: 404px; height: 228px;" src="/files/Check3.4.png" alt="Path variable" />.</li>
+</ol>
+<h3>Check out the Training Project</h3>
+<strong>If you are unable to attend our training sessions</strong>, you can check out the sample project created during these sessions from our Git repository following these steps:
+<ul>
+ 	<li>Start the MPS application, click on "Checkout from Version Control" in the right panel, then select "Git" from the drop down menu:
+<img class=" aligncenter" style="width: 404px; height: 228px;" src="/files/Checkout3.4.png" alt="" /></li>
+ 	<li>A form is shown requesting information about the repository. Insert the following value as Repository URL: <i>git@bitbucket.org:campagnelaboratory/introtometar_tutorial.git</i>. You can leave the default for the other values or change them as you prefer. Then click on the "Clone" button.<img class=" aligncenter" style="width: 404px; height: 228px;" src="/files/CloneRepo3.4.png" alt="" /></li>
+ 	<li>You can now open the project on your machine by clicking on the "Open Project" option (or from the MPS menu File &gt; Open):<img class=" aligncenter" style="width: 404px; height: 228px;" src="/files/OpenMPSProject3.4.png" alt="" />Browse your local disk. The project is available in your <em>HOME/MPSProjects/introtometar_tutorial</em> folder.</li>
+</ul>
+This is how the project should look like when you open it:
+<img class=" aligncenter" style="width: 804px; height: 504px;" src="/files/IntroProjectMPS3.4.png" alt="" />

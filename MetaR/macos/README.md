@@ -39,12 +39,11 @@ Configuration
 
 1. Define the following Path Variable (menu MPS&gt;Preferences...&gt;Appearance &amp; Behavior&gt;Path Variables):
     * **Name**: _org.campagnelab.metaR.results_dir_
-    * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (This directory is
-                    empty the first time you start MetaR.)
+    * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (This directory is empty the first time you start MetaR.)
   
-    ![PluginInstall](../images/AddVariable.png){:height="80%" width="80%"}
+    ![AddVariable](../images/AddVariable.png){:height="80%" width="80%"}
 
 2. Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag
    on the Editor page in the Project settings (menu MPS&gt;Preferences...&gt;Editor&gt; General) as shown: 
    
-   ![QuickRef](../images/EnableQuickRefResolution.png){:height="80%" width="80%"}
+   ![QuickRef](../images/EnableQuickRefResolution.png){:height="90%" width="90%"}

@@ -18,7 +18,7 @@ MetaR can be installed on the following platforms:
 * Any Linux distribution supporting Java 8 (check here for a complete list)
 
 ## Installation instructions
-[Installation instructions for MacOS users.](macos/README.md)
+[Installation instructions for MacOS users](macos/README.md).
 
 ## Binary distribution
 Binary packages of MetaR are available at the [JetBrains MPS Plugins Repository](https://plugins.jetbrains.com/plugin/7621-org-campagnelab-metar).

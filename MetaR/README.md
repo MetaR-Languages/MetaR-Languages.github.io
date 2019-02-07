@@ -20,10 +20,6 @@ MetaR can be installed on the following platforms:
 ## Installation instructions
 [Installation instructions for MacOS users.](macos/README.md)
 
-[Test Installation instructions for MacOS users.](macos/README.md)
-
-
-
 ## Binary distribution
 Binary packages of MetaR are available at the [JetBrains MPS Plugins Repository](https://plugins.jetbrains.com/plugin/7621-org-campagnelab-metar).
 

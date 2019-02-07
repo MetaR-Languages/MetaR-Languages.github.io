@@ -27,10 +27,10 @@ Install MetaR
     3.2 click on the “Browse Repositories…” button.
     
     3.3 In the new window, click on the “Manage Repositories…” button, then + (plus) and add the following URL: http://mpsrepo.slisson.de/
-    ![Repo](images/AddRepo.png)
+    ![Repo](../images/AddRepo.png)
     
 2. Back on the “Browse Repositories…” window, scroll the list of available plugins and install the plugin _org.campagnelab.MetaR_. Restart the application to activate the plugin.
-    ![PluginInstall](images/MetaRPlugin.png)
+    ![PluginInstall](../images/MetaRPlugin.png)
 
 Configuration
 -    
@@ -39,9 +39,9 @@ Configuration
     * **Name**: _org.campagnelab.metaR.results_dir_
     * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (This directory is
                     empty the first time you start MetaR.)
-    ![PluginInstall](images/AddVariable.png)
+    ![PluginInstall](../images/AddVariable.png)
 
 2. Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag
    on the Editor page in the Project settings (menu MPS&gt;Preferences...&gt;Editor&gt; General) as shown: 
    
-   ![QuickRef](images/EnableQuickRefResolution.png)
+   ![QuickRef](../images/EnableQuickRefResolution.png)

@@ -18,7 +18,7 @@ MetaR can be installed on the following platforms:
 * Any Linux distribution supporting Java 8 (check here for a complete list)
 
 ## Installation instructions
-[Installation instructions for MacOS users.](installation_instructions_macos.md)
+[Installation instructions for MacOS users.](macos/README.md)
 
 
 ## Binary distribution

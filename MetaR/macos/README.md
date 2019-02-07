@@ -8,7 +8,7 @@ System requirements
 
 Install software required by MetaR
 -
-1. Download and install Jetbrains MPS 2018.1.1 bundled with Java 8 (205 MB) from https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg
+1. Download and install Jetbrains MPS 2018.1.1 bundled with Java 8 (205 MB) from [https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg](https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg)
 
 2. Install Docker Community Edition from [https://store.docker.com/search?type=edition&offering=community]()https://store.docker.com/search?type=edition&offering=community) (you need to register for the download). 
 

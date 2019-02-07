@@ -17,10 +17,11 @@ MetaR can be installed on the following platforms:
 * 64bit Windows 10 Pro, Enterprise and Education (1607 Anniversary Update, Build 14393 or later)
 * Any Linux distribution supporting Java 8 (check here for a complete list)
 
-Installation instructions for MacOS users.
+## Installation instructions
+[Installation instructions for MacOS users.](MetaR/installation_instructions_macos.html)
 
-https://manuelesimi.github.io/MetaR/installation_instructions_macos.html
 
+##Binary distribution
+Binary packages of MetaR are available at the [JetBrains MPS Plugins Repository](https://plugins.jetbrains.com/plugin/7621-org-campagnelab-metar).
 
-Binary packages of MetaR are available  at the [JetBrains MPS Plugins Repository](https://plugins.jetbrains.com/plugin/7621-org-campagnelab-metar)
 

@@ -24,7 +24,7 @@ Install MetaR
     
     3.1 Start the MPS application and open-up the plugin manager in MPS (menu MPS > Preferences… > Plugins)
     
-    3.2 click on the “Browse Repositories…” button.
+    3.2 Click on the “Browse Repositories…” button.
     
     3.3 In the new window, click on the “Manage Repositories…” button, then + (plus) and add the following URL: http://mpsrepo.slisson.de/
   
@@ -39,7 +39,7 @@ Configuration
 
 1. Define the following Path Variable (menu MPS&gt;Preferences...&gt;Appearance &amp; Behavior&gt;Path Variables):
     * **Name**: _org.campagnelab.metaR.results_dir_
-    * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (This directory is empty the first time you start MetaR.)
+    * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (Avoid a path with spaces.)
   
     ![AddVariable](../images/AddVariable.png){:height="80%" width="80%"}
 

@@ -35,3 +35,6 @@ Binary packages of MetaR are available at the [JetBrains MPS Plugins Repository]
 
 ## Releases and change log
 See [MetaR releases](https://github.com/manuelesimi/MetaR/releases) on GitHub.
+
+## License
+MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

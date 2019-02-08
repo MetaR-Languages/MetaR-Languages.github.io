@@ -33,4 +33,5 @@ To upgrade MetaR, use the MPS&gt;Preferences...&gt;Plugins dialog. MPS will noti
 ## Binary distribution
 Binary packages of MetaR are available at the [JetBrains MPS Plugins Repository](https://plugins.jetbrains.com/plugin/7621-org-campagnelab-metar).
 
-
+## Releases and change log
+See [MetaR releases](https://github.com/manuelesimi/MetaR/releases) on GitHub.

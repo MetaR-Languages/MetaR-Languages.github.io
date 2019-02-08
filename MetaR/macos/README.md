@@ -12,7 +12,7 @@ Install software required by MetaR
 
 2. Install Docker Community Edition from [https://store.docker.com/search?type=edition&offering=community](https://store.docker.com/search?type=edition&offering=community) (you need to register for the download). 
 
-    Depending on your machine’s system, follow the simple steps described on the download page to activate Docker on your system. Then, from the Terminal application (or command prompt in Windows), type the following command:
+    Depending on your machine’s system, follow the simple steps described on the download page to activate Docker on your system. Then, from the Terminal application, type the following command:
 
         docker pull artifacts/metar:latest
 

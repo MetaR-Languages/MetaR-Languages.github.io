@@ -43,7 +43,7 @@ Configuration
   
     ![AddVariable](../images/AddVariable.png){:height="80%" width="80%"}
 
-2. Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag
+2. Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag ("Automatically run reference resolve quick fixes")
    on the Editor page in the Project settings (menu MPS&gt;Preferences...&gt;Editor&gt; General) as shown: 
    
    ![QuickRef](../images/EnableQuickRefResolution.png){:height="90%" width="90%"}

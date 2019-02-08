@@ -12,12 +12,17 @@ The following snapshot illustrates how metaR simplifies data analysis: we call d
 
 ![MetaR snapshot](images/MetaR_Home_Snapshot.png)
 
+Here’s another example showing how to look at intersection of gene lists with the integration of UpSetR/MetaR integration:
+
+![MetaR snapshot2](images/UpSet_in_MetaR_Snapshot.png)
+
+## Installation 
+
 MetaR can be installed on the following platforms:
 * MacOS Sierra 10.12+
 * 64bit Windows 10 Pro, Enterprise and Education (1607 Anniversary Update, Build 14393 or later)
 * Any Linux distribution supporting Java 8 (check here for a complete list)
 
-## Installation 
 To install MetaR, see installation instructions for each supported platform: 
 
 [Installation instructions for MacOS users](macos/README.md).

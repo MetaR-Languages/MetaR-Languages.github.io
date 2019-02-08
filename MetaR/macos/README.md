@@ -2,7 +2,7 @@
 
 System requirements
 -
-[MetaR](https://github.com/manuelesimi/MetaR) can be installed only if these requirements are met:
+[MetaR](https://manuelesimi.github.io/MetaR/) can be installed only if these requirements are met:
 * macOS Sierra 10.12+
 * about 4GB of disk space available.
 

@@ -34,6 +34,11 @@ Installation instructions for Linux users (TBP).
 ## Upgrade
 To upgrade MetaR, use the MPS&gt;Preferences...&gt;Plugins dialog. MPS will notify you of available upgrades. Follow instructions to install the new version of the plugin.
 
+## Documentation
+The following documentation booklet provides a comprehensive documentation about how to use and contribute to MetaR:
+ * [MetaR booklet (pdf)](booklet/MetaR_booklet.pdf)
+
+
 ## Source code
 MetaR is available on its [GitHub repository](https://github.com/manuelesimi/MetaR).
 

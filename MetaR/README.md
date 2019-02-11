@@ -10,11 +10,11 @@ MetaR is designed to work well with other languages of the platform. Importantly
 
 The following snapshot illustrates how metaR simplifies data analysis: we call differentially expressed genes with edgeR, join the resulting table with the table of counts, and produce a heatmap for the top 5% differentially regulated genes:
  
-![MetaR snapshot](images/MetaR_Home_Snapshot.png){:height="70%" width="70%"}
+![MetaR snapshot](images/MetaR_Home_Snapshot.png){:height="60%" width="60%"}
 
 Here’s another example showing how to look at intersection of gene lists with the integration of UpSetR/MetaR integration:
 
-![MetaR snapshot2](images/UpSet_in_MetaR_Snapshot.png) {:height="70%" width="70%"}
+![MetaR snapshot2](images/UpSet_in_MetaR_Snapshot.png){:height="60%" width="60%"}
 
 ## Installation 
 

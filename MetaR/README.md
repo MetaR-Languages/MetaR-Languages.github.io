@@ -34,11 +34,13 @@ Installation instructions for Linux users (TBP).
 ## Upgrade
 To upgrade MetaR, use the MPS&gt;Preferences...&gt;Plugins dialog. MPS will notify you of available upgrades. Follow instructions to install the new version of the plugin.
 
-## Binary distribution
-Binary packages of MetaR are available at the [JetBrains MPS Plugins Repository](https://plugins.jetbrains.com/plugin/7621-org-campagnelab-metar).
+## Source code
+MetaR is available on its [GitHub repository](https://github.com/manuelesimi/MetaR).
+
+MetaR is currently in active development: please use the GitHub issue tracker to file enhancement requests and bug fixing.
 
 ## Releases and change log
-See [MetaR releases](https://github.com/manuelesimi/MetaR/releases) on GitHub.
+See MetaR [releases](https://github.com/manuelesimi/MetaR/releases) on GitHub.
 
 ## License
 MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

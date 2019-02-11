@@ -9,12 +9,12 @@ MetaR takes advantage of Language Workbench Technology to facilitate data analys
 MetaR is designed to work well with other languages of the platform. Importantly, users who learn how to use one component will acquire skills useful with other languages offered on the platform.
 
 The following snapshot illustrates how metaR simplifies data analysis: we call differentially expressed genes with edgeR, join the resulting table with the table of counts, and produce a heatmap for the top 5% differentially regulated genes:
-
-![MetaR snapshot](images/MetaR_Home_Snapshot.png)
+ 
+![MetaR snapshot](images/MetaR_Home_Snapshot.png){:height="70%" width="70%"}
 
 Here’s another example showing how to look at intersection of gene lists with the integration of UpSetR/MetaR integration:
 
-![MetaR snapshot2](images/UpSet_in_MetaR_Snapshot.png)
+![MetaR snapshot2](images/UpSet_in_MetaR_Snapshot.png) {:height="70%" width="70%"}
 
 ## Installation 
 

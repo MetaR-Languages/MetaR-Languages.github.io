@@ -33,7 +33,7 @@ Install MetaR
   
     ![PluginInstall](../images/MetaRPlugin.png){:height="80%" width="80%"}
     
-3. After restarting, open MPS. go back in the plugin manager (menu MPS > Settings… > Plugins) and make sure the MetaR plugin is not listed red.
+3. After restarting, open MPS, go back in the plugin manager (menu MPS > Settings… > Plugins) and make sure the MetaR plugin is not listed red.
 
 Configuration
 -    

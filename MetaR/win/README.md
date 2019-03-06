@@ -15,7 +15,7 @@ Install software required by MetaR
     
 2. Download and install Jetbrains MPS 2018.1.1 from [https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1.exe](https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1.exe)
 
-3. Install R (https://cran.r-project.org/bin/windows/base/) and then run this [R script](R-installation.R.txt) inside the R console to install some R packages required by MetaR
+3. Install R from [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/) and then run this [R script](R-installation.R.txt) inside the R console to install some R packages required by MetaR
    
 Install MetaR
 -    

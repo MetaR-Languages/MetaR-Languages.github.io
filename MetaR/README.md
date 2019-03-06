@@ -34,7 +34,7 @@ The following documentation booklet provides a comprehensive documentation about
 
 
 ## Source code
-MetaR is available on its [GitHub repository](https://github.com/manuelesimi/MetaR).
+MetaR is available on [GitHub](https://github.com/manuelesimi/MetaR).
 
 MetaR is currently in active development: please use the GitHub issue tracker to file enhancement requests and bug fixing.
 

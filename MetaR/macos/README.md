@@ -33,6 +33,8 @@ Install MetaR
 2. Back on the “Browse Repositories…” window, scroll the list of available plugins and install the plugin _org.campagnelab.MetaR_. Restart the application to activate the plugin.
   
     ![PluginInstall](../images/MetaRPlugin.png){:height="80%" width="80%"}
+    
+3. After restarting, open MPS. go back in the plugin manager (menu MPS > Preferences… > Plugins) and make sure the MetaR plugin is not listed red.     
 
 Configuration
 -    

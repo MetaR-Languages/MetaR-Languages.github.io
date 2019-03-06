@@ -22,11 +22,11 @@ Install MetaR
 -    
 1. Install the MPS metaR plugin
     
-    3.1 Start the MPS application and open-up the plugin manager in MPS (menu MPS > Preferences… > Plugins)
+    1.1 Start the MPS application and open-up the plugin manager in MPS (menu MPS > Preferences… > Plugins)
     
-    3.2 Click on the “Browse Repositories…” button.
+    1.2 Click on the “Browse Repositories…” button.
     
-    3.3 In the new window, click on the “Manage Repositories…” button, then + (plus) and add the following URL: http://mpsrepo.slisson.de/
+    1.3 In the new window, click on the “Manage Repositories…” button, then + (plus) and add the following URL: http://mpsrepo.slisson.de/
   
     ![Repo](../images/AddRepo.png){:height="50%" width="50%"}
     

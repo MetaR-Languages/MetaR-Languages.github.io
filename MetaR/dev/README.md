@@ -17,5 +17,6 @@ MetaR 2.5.x has been tested with the following pre-release:
 https://github.com/JetBrains/MPS-extensions/releases/download/nightly-2019.1.1069.f2ac5fb/de.itemis.mps.extensions-2019.1.1069.f2ac5fb.zip
 
 Extract the archive and point a project or global library in MPS to the location where you extracted it: 
-    ![Global Lib](./images/GlobalLibForExtensions.png) {:height="80%" width="80%"}
 
+   ![Global Lib](./images/GlobalLibForExtensions.png){:height="80%" width="80%"}
+        

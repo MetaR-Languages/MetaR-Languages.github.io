@@ -1,4 +1,4 @@
-![MetaR logo](images/MetaR-logo-4-SMALL-300x111.png)
+![MetaR logo](MetaR/images/MetaR-logo-4-SMALL-300x111.png)
 
 # Table of Contents 
 * [Introduction to MetaR](MetaR/Introduction.md)

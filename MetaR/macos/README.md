@@ -3,12 +3,14 @@
 System requirements
 -
 [MetaR](https://manuelesimi.github.io/MetaR/) can be installed only if these requirements are met:
-* macOS Sierra 10.12+
-* about 4GB of disk space available.
+* macOS 10.11 or higher
+* 4 GB RAM minimum, 8 GB RAM recommended
+* 4 GB hard disk space, SSD recommended
+* 1024x768 minimum screen resolution
 
 Install software required by MetaR
 -
-1. Download and install Jetbrains MPS 2018.1.1 bundled with Java 8 (205 MB) from [https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg](https://download.jetbrains.com/mps/2018.1/MPS-2018.1.1-macos-jdk-bundled.dmg)
+1. Download and install Jetbrains MPS 2019.1.5 bundled with Java 8 (205 MB) from [https://download-cf.jetbrains.com/mps/2019.1/MPS-2019.1.5-macos-jdk-bundled.dmg](https://download-cf.jetbrains.com/mps/2019.1/MPS-2019.1.5-macos-jdk-bundled.dmg)
 
 2. Install Docker Community Edition from [https://store.docker.com/search?type=edition&offering=community](https://store.docker.com/search?type=edition&offering=community) (you need to register for the download). 
 
@@ -24,18 +26,22 @@ Install MetaR
     
     1.1 Start the MPS application and open-up the plugin manager in MPS (menu MPS > Preferences… > Plugins)
     
-    1.2 Click on the “Browse Repositories…” button.
+    1.2 Click on the top-right gear image and then select “Manage Plugin Repositories…” from the menu.
     
-    1.3 In the new window, click on the “Manage Repositories…” button, then + (plus) and add the following URL: http://mpsrepo.slisson.de/
-  
-    ![Repo](../images/AddRepo.png){:height="50%" width="50%"}
-    
-2. Back on the “Browse Repositories…” window, scroll the list of available plugins and install the plugin _org.campagnelab.MetaR_. Restart the application to activate the plugin.
-  
-    ![PluginInstall](../images/MetaRPlugin.png){:height="80%" width="80%"}
-    
-3. After restarting, open MPS, go back in the plugin manager (menu MPS > Preferences… > Plugins) and make sure the MetaR plugin is not listed red.     
+    ![Repo](../images/AddRepo2019.1.png){:height="50%" width="50%"}
 
+    1.3 In the new window, click on the “+” button and add the following URL: http://mpsrepo.slisson.de/
+  
+    ![Repo](../images/AddRepoURL2019.1.png){:height="50%" width="50%"}
+    
+2. Back on the “Plugins” window, click on "Marketplace" and search for "MetaR" and click on the install button of the plugin _org.campagnelab.MetaR_. Restart the application to activate the plugin.
+  
+    ![PluginInstall](../images/InstallMetaR2019.1.png){:height="80%" width="80%"}
+    
+3. After restarting, open MPS, go back in the plugin manager (menu MPS > Preferences… > Plugins), select the "Installed" tab, and make sure the MetaR plugin is not listed red.     
+   
+    ![PluginCheck](../images/CheckMetaR2019.1.png){:height="80%" width="80%"}
+    
 Configuration
 -    
 

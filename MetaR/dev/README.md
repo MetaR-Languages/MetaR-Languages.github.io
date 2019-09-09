@@ -7,8 +7,14 @@
 
 ## Migration to MPS 2019.1.5 
 
-#### Installation
-MPS Extensions are not yet available as binary plugins for MPS 2019.1.x.
+### Installation
+
+In the plugins page, install the following plugins:
+* RichText
+* de.slisson.mps.all
+
+### Pre-releases
+Sometimes MPS Extensions are not yet available as binary plugins for MPS in the repository.
 
 Pre-releases are available at the [github repository](https://github.com/JetBrains/MPS-extensions). 
 

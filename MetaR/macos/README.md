@@ -36,11 +36,11 @@ Install MetaR
     
 2. Back on the “Plugins” window, click on "Marketplace" and search for "MetaR" and click on the install button of the plugin _org.campagnelab.MetaR_. Restart the application to activate the plugin.
   
-    ![PluginInstall](../images/InstallMetaR2019.1.png){:height="80%" width="80%"}
+    ![PluginInstall](../images/InstallMetaR2019.1.png){:height="50%" width="50%"}
     
 3. After restarting, open MPS, go back in the plugin manager (menu MPS > Preferences… > Plugins), select the "Installed" tab, and make sure the MetaR plugin is not listed red.     
    
-    ![PluginCheck](../images/CheckMetaR2019.1.png){:height="80%" width="80%"}
+    ![PluginCheck](../images/CheckMetaR2019.1.png){:height="50%" width="50%"}
     
 Configuration
 -    

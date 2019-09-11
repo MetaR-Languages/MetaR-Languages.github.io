@@ -20,3 +20,9 @@ Popular repositories for distributing packages are:
   
   
 The common R users are researchers or statisticians (i.e., domain experts) and not professional developers, and this is where MetaR can help.
+
+## Some Key Features of R
+* Effective data handling and storage facility.
+* Suite of operators for calculations on arrays, lists, vectors and matrices.
+* Large, coherent and integrated collection of tools for data analysis.
+* Graphical facilities for data analysis and display either directly at the computer or printing at the papers.

@@ -22,6 +22,7 @@ Here’s another example showing how to look at intersection of gene lists with 
 ## Data Manipulation
 * High-level data abstractions
 * Advanced assistance in manipulating data
+    * [Reorder columns](https://github.com/manuelesimi/MetaR-demos/tree/master/solutions/DataManipulation)
 * Inspection of data and results in an integrated environment
 
 ## Execution

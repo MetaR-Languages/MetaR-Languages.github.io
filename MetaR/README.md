@@ -4,6 +4,7 @@
 * [Introduction to MetaR](Introduction.md)
 * [About R](AboutR.md)
 * [MetaR Software](Software.md)
+* [FAQ](FAQ.md) (from our traning sessions)
 
 #### License
 MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

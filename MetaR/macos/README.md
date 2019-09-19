@@ -28,7 +28,7 @@ Install MetaR
     
     1.2 Click on the top-right gear image and then select “Manage Plugin Repositories…” from the menu.
     
-    ![Repo](../images/AddRepo2019.1.png){:height="50%" width="50%"}
+    ![Repo](../images/AddRepo2019.1.png){:height="30%" width="30%"}
 
     1.3 In the new window, click on the “+” button and add the following URL: http://mpsrepo.slisson.de/
   

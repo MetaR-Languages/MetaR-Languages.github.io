@@ -1,5 +1,6 @@
 
-# MetaR Software
+![MetaR logo](images/MetaR-logo-4-SMALL-300x111.png)
+
 ## System Requirements 
 
 MetaR can be installed on the following platforms:

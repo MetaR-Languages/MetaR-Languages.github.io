@@ -1,3 +1,5 @@
+![MetaR logo](../images/MetaR-logo-4-SMALL-300x111.png)
+
 ## Installation instructions for MacOS users
 
 System requirements

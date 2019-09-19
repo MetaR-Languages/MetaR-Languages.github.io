@@ -1,3 +1,5 @@
+![MetaR logo](images/MetaR-logo-4-SMALL-300x111.png)
+
 During our training sessions at WCM, we often receive questions (either on R, on bioninformatics and on the demo).
 
 Here're the most common:

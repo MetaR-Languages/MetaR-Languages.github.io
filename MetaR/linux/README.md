@@ -1,16 +1,18 @@
-## Installation instructions for MacOS users
+## Installation instructions for Linux users
 
 System requirements
 -
 [MetaR](https://manuelesimi.github.io/MetaR/) can be installed only if these requirements are met:
-* MacOS Sierra 10.12+
-* 4 GB RAM minimum, 8 GB RAM recommended
-* 4 GB hard disk space, SSD recommended
+
+* GNOME or KDE desktop
+* 3 GB RAM minimum, 8 GB RAM recommended
+* 2.5 GB hard disk space, SSD recommended
 * 1024x768 minimum screen resolution
+
 
 Install software required by MetaR
 -
-1. Download and install Jetbrains MPS 2019.1.5 bundled with Java 8 (205 MB) from [https://download-cf.jetbrains.com/mps/2019.1/MPS-2019.1.5-macos-jdk-bundled.dmg](https://download-cf.jetbrains.com/mps/2019.1/MPS-2019.1.5-macos-jdk-bundled.dmg)
+1. Download and install Jetbrains MPS 2019.1.5 from [https://download.jetbrains.com/mps/2019.1/MPS-2019.1.5.tar.gz](https://download.jetbrains.com/mps/2019.1/MPS-2019.1.5.tar.gz)
 
 2. Install Docker Community Edition from [https://store.docker.com/search?type=edition&offering=community](https://store.docker.com/search?type=edition&offering=community) (you need to register for the download). 
 
@@ -47,7 +49,7 @@ Configuration
 
 1. Define the following Path Variable (menu MPS&gt;Preferences...&gt;Appearance &amp; Behavior&gt;Path Variables):
     * **Name**: _org.campagnelab.metaR.results_dir_
-    * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (Avoid a path with spaces.)
+    * **Value**: an arbitrary folder <strong>under /home/your user  </strong>where you want the results of MetaR analyses to be placed. (Avoid a path with spaces.)
   
     ![AddVariable](../images/AddVariable.png){:height="80%" width="80%"}
 

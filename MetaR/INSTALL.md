@@ -13,4 +13,4 @@ To install MetaR, see installation instructions for each supported platform:
 
 [Installation instructions for Windows users](win/README.md).
 
-Installation instructions for Linux users (TBP).
+[Installation instructions for Linux users](linux/README.md).

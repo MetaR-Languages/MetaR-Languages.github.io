@@ -8,8 +8,8 @@ MetaR can be installed on the following platforms:
 * Any Linux distribution supporting Java 8 (check here for a complete list)
 
 ## Installation
-**Note:**
-The installation instructions are currently under revision and will be published soon. 
+
+To install MetaR, follow the [installation instructions](INSTALL.md).  
 
 ## Upgrade
 To upgrade MetaR, use the _MPS&gt;Preferences...&gt;Plugins_ dialog. MPS will notify you of available upgrades. Follow instructions to install the new version of the plugin.

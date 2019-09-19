@@ -1,5 +1,9 @@
 ## Installation instructions for Windows users
 
+**NOTE:**
+
+Support on Windows is still experimental and under active development. Even if most of the features work, there are a few issues to fix that can affect the correct execution of the Analyses. 
+
 System requirements
 -
 [MetaR](https://manuelesimi.github.io/MetaR/) can be installed only if these requirements are met:

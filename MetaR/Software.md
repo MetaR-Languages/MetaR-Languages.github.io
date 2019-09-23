@@ -13,7 +13,12 @@ MetaR can be installed on the following platforms:
 To install MetaR, follow the [installation instructions](INSTALL.md).  
 
 ## Upgrade
-To upgrade MetaR, use the _MPS&gt;Preferences...&gt;Plugins_ dialog. MPS will notify you of available upgrades. Follow instructions to install the new version of the plugin.
+To upgrade MetaR, use the _MPS&gt;Preferences...&gt;Plugins_ dialog. If a new version of MetaR is available, the update page will prompt you to upgrade the current installation:
+
+![UpdateMetaR](./images/UpdateMetaR.png){:height="80%" width="80%"}
+
+Just click on the update button to upgrade MetaR to the latest version.
+The upgrade procedure is the same for all the supported platforms.
 
 ## Documentation
 The following documentation booklet provides a comprehensive documentation about how to use and contribute to MetaR:

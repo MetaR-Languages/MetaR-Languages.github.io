@@ -27,32 +27,32 @@ Install MetaR
 -    
 1. Install the MPS metaR plugin
     
-    1.1 Start the MPS application and open-up the plugin manager in MPS (menu MPS > Settings… > Plugins)
+    1.1 Start the MPS application and open-up the plugin manager in MPS (menu File > Settings… > Plugins)
     
-    1.2 Click on the “Browse Repositories…” button.
+    1.2 Click on the gear icon (top righ) and then select “Manage Plugin Repositories…” button.
     
-    1.3 In the new window, click on the “Manage Repositories…” button, then + (plus) and add the following URL: http://mpsrepo.slisson.de/
+    1.3 In the new window ("Custom Plugin Repositories", then + (plus) button, add the following URL: http://mpsrepo.slisson.de/ and then click OK
   
-    ![Repo](../images/AddRepo.png){:height="50%" width="50%"}
+    ![Repo](../images/AddRepoURL2019.1.png){:height="50%" width="50%"}
     
 2. Back on the “Plugins” window, click on "Marketplace" and search for "MetaR" and click on the install button of the plugin _org.campagnelab.MetaR_. Restart the application to activate the plugin.
   
     ![PluginInstall](../images/InstallMetaR2019.1.png){:height="50%" width="50%"}
     
-3. After restarting, open MPS, go back in the plugin manager (menu MPS > Settings… > Plugins) and make sure the MetaR plugin is not listed red.
+3. After restarting, open MPS, go back in the plugin manager (menu File > Settings… > Plugins) and make sure the MetaR plugin is not listed red.
 
    ![PluginCheck](../images/CheckMetaR2019.1.png){:height="60%" width="60%"}
 
 Configuration
 -    
 
-1. Define the following Path Variable (menu MPS&gt;Settings...&gt;Appearance &amp; Behavior&gt;Path Variables):
+1. Define the following Path Variables (menu File&gt;Settings...&gt;Appearance &amp; Behavior&gt;Path Variables):
     * **Name**: _org.campagnelab.metaR.results_dir_
-    * **Value**: an arbitrary folder <strong>under /Users in Mac OS X </strong>where you want the results of MetaR analyses to be placed. (Avoid a path with spaces.)
+    * **Value**: an arbitrary folder <strong>under C:\Users\ </strong>where you want the results of MetaR analyses to be placed. (**Avoid a path with spaces.**)
   
     ![AddVariable](../images/AddVariable.png){:height="80%" width="80%"}
 
-2. Define the following Path Variable (menu MPS>Settings…>Appearance & Behavior>Path Variables):
+2. Define the following Path Variable (menu File>Settings…>Appearance & Behavior>Path Variables):
 
     * **Name**: _R_HOME_
     * **Value**: _installation path to R_ (where R has been installed)
@@ -60,6 +60,6 @@ Configuration
    Calling R.home() in the R console will return the installation path. See https://stat.ethz.ch/R-manual/R-devel/library/base/html/Rhome.html. 
 
 3. Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag ("Automatically run reference resolve quick fixes")
-   on the Editor page in the Project settings (menu MPS&gt;Settings...&gt;Editor&gt; General) as shown: 
+   on the Editor page in the Project settings (menu File&gt;Settings...&gt;Editor&gt; General) as shown: 
    
    ![QuickRef](../images/EnableQuickRefResolution.png){:height="90%" width="90%"}

@@ -5,6 +5,10 @@
 * [MetaR Installation Guide](MetaR/Software.md)
 * [MetaR User Guide (pdf)](MetaR/booklet/MetaR_booklet.pdf)
 
+### Source Code ###
+
+[MetaR GitHub Repository](https://github.com/MetaR-Projects/MetaR)
+
 #### License
 MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).
 

@@ -4,7 +4,7 @@
 
 System requirements
 -
-[MetaR](https://github.com/MetaR-Projects/MetaR) can be installed only if these requirements are met:
+[MetaR](https://github.com/MetaR-Languages/MetaR) can be installed only if these requirements are met:
 
 * GNOME or KDE desktop
 * 3 GB RAM minimum, 8 GB RAM recommended

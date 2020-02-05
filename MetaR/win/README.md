@@ -8,7 +8,7 @@ Support on Windows is still experimental and under active development. Even if m
 
 System requirements
 -
-[MetaR](https://github.com/MetaR-Projects/MetaR) can be installed only if these requirements are met:
+[MetaR](https://github.com/MetaR-Languages/MetaR) can be installed only if these requirements are met:
 * 64bit Windows 10 Pro, Enterprise and Education (1607 Anniversary Update, Build 14393 or later)
 * about 4GB of disk space available.
 

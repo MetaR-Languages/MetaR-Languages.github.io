@@ -7,7 +7,7 @@
 
 ### Source Code ###
 
-[MetaR GitHub Repository](https://github.com/MetaR-Projects/MetaR)
+[MetaR GitHub Repository](https://github.com/MetaR-Languages/MetaR)
 
 #### License
 MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

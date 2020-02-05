@@ -26,12 +26,12 @@ The following documentation booklet provides a comprehensive documentation about
 
 
 ## Source code
-MetaR is available on [GitHub](https://github.com/MetaR-Projects/MetaR).
+MetaR is available on [GitHub](https://github.com/MetaR-Languages/MetaR).
 
 MetaR is currently in active development: please use the GitHub issue tracker to file enhancement requests and bug fixing.
 
 ## Releases and change log
-See MetaR [releases](https://github.com/MetaR-Projects/MetaR/releases) on GitHub.
+See MetaR [releases](https://github.com/MetaR-Languages/MetaR/releases) on GitHub.
 
 ## License
 MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

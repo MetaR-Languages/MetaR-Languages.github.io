@@ -4,7 +4,7 @@
 
 System requirements
 -
-[MetaR](https://github.com/MetaR-Projects/MetaR) can be installed only if these requirements are met:
+[MetaR](https://github.com/MetaR-Languages/MetaR) can be installed only if these requirements are met:
 * MacOS Sierra 10.12+
 * 4 GB RAM minimum, 8 GB RAM recommended
 * 4 GB hard disk space, SSD recommended

@@ -2,8 +2,8 @@
 
 # Table of Contents 
 * [Introduction to MetaR](MetaR/Introduction.md)
-* [About R](MetaR/AboutR.md)
-* [MetaR Software](MetaR/Software.md)
+* [MetaR Installation Guide](MetaR/Software.md)
+* [MetaR User Guide (pdf)](booklet/MetaR_booklet.pdf)
 
 #### License
 MetaR is open-source and released under the [Apache 2.0 license](http://www.apache.org/licenses/LICENSE-2.0).

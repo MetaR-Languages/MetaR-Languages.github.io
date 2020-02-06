@@ -4,6 +4,7 @@
 * [Introduction to MetaR](MetaR/Introduction.md)
 * [MetaR Installation Guide](MetaR/Software.md)
 * [MetaR User Guide (pdf)](MetaR/booklet/MetaR_booklet.pdf)
+* [About Us](MetaR/AboutUs.md)
 
 ### Source Code ###
 

@@ -57,7 +57,7 @@ Configuration
     * **Name**: _R_HOME_
     * **Value**: _installation path to R_ (where R has been installed)
 
-   Calling R.home() in the R console will return the installation path. See https://stat.ethz.ch/R-manual/R-devel/library/base/html/Rhome.html. 
+   Typing `R.home()` + pressing <Enter/Return> in the R console will return the installation path. See [https://stat.ethz.ch/R-manual/R-devel/library/base/html/Rhome.html](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Rhome.html). 
 
 3. Enable automatic reference re-resolution in the editor. For that, you need to enable the corresponding flag ("Automatically run reference resolve quick fixes")
    on the Editor page in the Project settings (menu File&gt;Settings...&gt;Editor&gt; General) as shown: 

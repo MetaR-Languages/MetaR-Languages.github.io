@@ -24,6 +24,5 @@ If you use MetaR, please cite:
 
 Fabien Campagne, William ER Digan, Manuele Simi _MetaR: simple, high-level languages for data analysis with the R ecosystem_ bioRxiv 2015 doi: http://dx.doi.org/10.1101/030254
 
-#
 
 _MetaR is offered by the Informatics Core at the [Clinical and Translational Science Center (CTSC)](https://ctscweb.weill.cornell.edu/about-us/ctsc-programs/informatics) at Weill Cornell Medicine (WCM)._

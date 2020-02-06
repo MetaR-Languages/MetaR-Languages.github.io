@@ -1,5 +1,8 @@
 ![MetaR logo](MetaR/images/MetaR-logo-4-SMALL-300x111.png)
 
+MetaR takes advantage of Language Workbench Technology to facilitate data analysis with the R language. 
+The tool is tailored for biologists with no programming experience, as well as expert bioinformaticians and statisticians. 
+
 # Table of Contents 
 * [Introduction to MetaR](MetaR/Introduction.md)
 * [MetaR Installation Guide](MetaR/Software.md)

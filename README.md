@@ -12,9 +12,12 @@ MetaR performs statistical analyses over RNA-Seq data.
 A typical MetaR analysis starts from a read count matrix, where each column is a sample and each row is a gene.
 
 Major features of MetaR include:
+ * data abstraction
  * data manipulation
- * analysis and 
+ * data analysis 
  * graphical visualization of the results
+ * integration with virtual environments (for enhanced reproducibility)
+ * versioning of your projects
 
 # Contents 
 * [Introduction to MetaR](MetaR/Introduction.md)

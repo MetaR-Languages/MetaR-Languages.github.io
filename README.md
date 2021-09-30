@@ -41,6 +41,7 @@ MetaR is open-source and released under the [Apache 2.0 license](http://www.apac
 If you use MetaR in a paper, please cite:
 > **Campagne, F., Digan, W., & Simi, M.** (2015). _MetaR: simple, high-level languages for data analysis with the R ecosystem._
 > bioRxiv 030254; doi: [http://dx.doi.org/10.1101/030254](http://dx.doi.org/10.1101/030254)
+
 ## Other Published Works
 
 * **Simi, M.** (2021) _Learning Data Analysis with MetaR_. In: Bucchiarone A., Cicchetti A., Ciccozzi F., Pierantonio A. (eds) 

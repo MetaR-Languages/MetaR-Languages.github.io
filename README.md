@@ -1,5 +1,12 @@
 ![MetaR logo](MetaR/images/MetaR-logo-4-SMALL-300x111.png)
-# Description 
+
+> The goal of the MetaR project is to provide a tool for educating
+> biomedical researchers in data analysis by keeping the learning curve as smooth and simple as possible.
+
+# Description
+Omitting non-essential elements is especially important when the user is a computational beginner. 
+For this reason, MetaR was created to keep the focus on the data analysis rather than the technical 
+details.
 
 MetaR takes advantage of Language Workbench Technology to facilitate data analysis with the R language. 
 The tool is tailored for biologists with no programming experience, as well as expert bioinformaticians and statisticians. 

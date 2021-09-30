@@ -50,5 +50,7 @@ If you use MetaR in a paper, please cite:
 
 * **Simi, M.** (2020) _MetaR Case Study_. Available online at:
   [https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf](https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf)  
+
 ___
+
 _MetaR is offered by the Informatics Core at the [Clinical and Translational Science Center (CTSC)](https://ctscweb.weill.cornell.edu/about-us/ctsc-programs/informatics) at Weill Cornell Medicine (WCM)._

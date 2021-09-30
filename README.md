@@ -1,5 +1,4 @@
 ![MetaR logo](MetaR/images/MetaR-logo-4-SMALL-300x111.png)
-
 # Description 
 
 MetaR takes advantage of Language Workbench Technology to facilitate data analysis with the R language. 
@@ -44,9 +43,11 @@ If you use MetaR in a paper, please cite:
 
 
 ## Other Published Works
-* **Simi, M.** (2021) _Learning Data Analysis with MetaR_. In: Bucchiarone A., Cicchetti A., Ciccozzi F., Pierantonio A. (eds) 
-  Domain-Specific Languages in Practice. Springer, Cham. [https://doi.org/10.1007/978-3-030-73758-0_9](https://doi.org/10.1007/978-3-030-73758-0_9)
-* **Simi, M.** (2020) _MetaR Case Study_. Available online at:
-  [https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf](https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf)  
+> **Simi, M.** (2021) _Learning Data Analysis with MetaR_. In: Bucchiarone A., Cicchetti A., Ciccozzi F., Pierantonio A. (eds) 
+  Domain-Specific Languages in Practice. Springer, Cham. Hardcover ISBN 978-3-030-73757-3, eBook ISBN 978-3-030-73758-0. 
+  Chapter preview available at: [https://link.springer.com/chapter/10.1007/978-3-030-73758-0_9](https://link.springer.com/chapter/10.1007/978-3-030-73758-0_9)
 
+> **Simi, M.** (2020) _MetaR Case Study_. Available online at:
+  [https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf](https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf)  
+___
 _MetaR is offered by the Informatics Core at the [Clinical and Translational Science Center (CTSC)](https://ctscweb.weill.cornell.edu/about-us/ctsc-programs/informatics) at Weill Cornell Medicine (WCM)._

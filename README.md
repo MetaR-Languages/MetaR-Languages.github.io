@@ -42,8 +42,8 @@ If you use MetaR in a paper, please cite:
 > **Campagne, F., Digan, W., & Simi, M.** (2015). _MetaR: simple, high-level languages for data analysis with the R ecosystem._
 > bioRxiv 030254; doi: [http://dx.doi.org/10.1101/030254](http://dx.doi.org/10.1101/030254)
 
-## Other Published Works
 
+## Other Published Works
 * **Simi, M.** (2021) _Learning Data Analysis with MetaR_. In: Bucchiarone A., Cicchetti A., Ciccozzi F., Pierantonio A. (eds) 
   Domain-Specific Languages in Practice. Springer, Cham. [https://doi.org/10.1007/978-3-030-73758-0_9](https://doi.org/10.1007/978-3-030-73758-0_9)
 * **Simi, M.** (2020) _MetaR Case Study_. Available online at:

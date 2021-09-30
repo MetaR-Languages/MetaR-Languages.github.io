@@ -44,4 +44,11 @@ If you use MetaR in a paper, please cite:
 > MetaR: simple, high-level languages for data analysis with the R ecosystem bioRxiv 2015
 > doi: http://dx.doi.org/10.1101/030254
 
+## Other Published Works
+
+* **Simi M.** (2021) _Learning Data Analysis with MetaR_. In: Bucchiarone A., Cicchetti A., Ciccozzi F., Pierantonio A. (eds) 
+  Domain-Specific Languages in Practice. Springer, Cham. https://doi.org/10.1007/978-3-030-73758-0_9
+* **Simi, M.** (2020) _MetaR Case Study_. Available at:
+  https://resources.jetbrains.com/storage/products/mps/docs/MPS_MetaR_Case_Study.pdf  
+
 _MetaR is offered by the Informatics Core at the [Clinical and Translational Science Center (CTSC)](https://ctscweb.weill.cornell.edu/about-us/ctsc-programs/informatics) at Weill Cornell Medicine (WCM)._
